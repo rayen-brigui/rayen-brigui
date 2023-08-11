@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/969647151816790067/1139697975656988722/Rayen.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1678374598079" />
+  <img src="https://img.freepik.com/premium-photo/illustration-neon-tropical-theme-with-palm-tree-exotic-floral-ai_564714-1270.jpg" width='300'  />
 </div>
 ### Hi there 👋
 
