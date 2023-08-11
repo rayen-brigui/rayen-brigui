@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://imgur.com/SZOoUWD" />
+  <img height="300" src="https://cdn.discordapp.com/attachments/969647151816790067/1139697975656988722/Rayen.gif" />
 </div>
 ### Hi there 👋
 
