@@ -1,6 +1,6 @@
-<div align="center">
+
   <img height="300" src="https://ik.imagekit.io/rayenbrigui/Rayen.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1691796743116" />
-</div>
+
 ### 
 
 Hi there 👋
