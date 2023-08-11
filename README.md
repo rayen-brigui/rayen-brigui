@@ -1,3 +1,6 @@
+<div align="center">
+  <img height="300" src="https://imgur.com/SZOoUWD" />
+</div>
 ### Hi there 👋
 
 <!--
