@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/969647151816790067/1139697975656988722/Rayen.gif" width='1080'  />
+  <img height="300" src="https://ik.imagekit.io/arfizato/intro-long.gif?ik-sdk-version=javascript-1.4.3&updatedAt=1678374598079" />
 </div>
 ### Hi there 👋
 
