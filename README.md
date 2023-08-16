@@ -1,5 +1,8 @@
 
- ![profile](https://cdn.discordapp.com/attachments/1053331469419954256/1141437368801443991/My_Profile.gif)
+
+<div align="center">
+  <img height="300" src="https://ik.imagekit.io/rayenbrigui/banner.gif?updatedAt=1692211831677" width="100%"/>
+</div>
 
 
 ###
