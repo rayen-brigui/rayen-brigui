@@ -32,9 +32,9 @@
   <details >
   <summary>See More..</summary>
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rayen-brigui&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Rayen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rayen-brigui&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-  [![Arfizato's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rayen-brigui)](https://wakatime.com/@arfizato)
+  [![Rayen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rayen_brigui)](https://wakatime.com/@arfizato)
   
   ![](https://github-profile-trophy.vercel.app/?username=rayen-brigui&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
