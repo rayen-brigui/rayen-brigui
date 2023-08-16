@@ -30,8 +30,7 @@
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=rayen-brigui" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=rayen-brigui" height="150" alt="languages graph"  />
   
-  <details >
-  <summary>See More..</summary>
+  
 
   [![Rayen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rayen-brigui&theme=react-dark)](https://github.com/rayen-brigui/github-readme-activity-graph)
 
@@ -40,7 +39,7 @@
   ![](https://github-profile-trophy.vercel.app/?username=rayen-brigui&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
 [![wakatime](https://wakatime.com/badge/user/cd33596e-7f2f-4a17-b756-56efaa7af02b.svg)](https://wakatime.com/@cd33596e-7f2f-4a17-b756-56efaa7af02b)
-  </details>
+
 </div>
 
 
