@@ -13,14 +13,11 @@
 ###
 
 <div align="center">
-  <a href="mailto:ibrahimdoghri.tn@gmail.com?subject = Feedback&body = Message" target="_blank">
+  <a href="mailto:rayenbrigui92@gmail.com?subject = Feedback&body = Message" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/ibrahimdoghri" target="_blank">
+  <a href="https://www.linkedin.com/in/rayen-brigui-b62367182" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://arfizato.tn" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/-Arfizato.tn-teal?style=for-the-badge&logo=globe&logoColor=white" height="35" alt="Website arfizato.tn">
   </a>
 
 </div>
