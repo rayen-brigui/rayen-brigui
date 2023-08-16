@@ -46,7 +46,7 @@
 ###
 
 <div align="center">
-  <img src=https://profile-counter.glitch.me/rayen-brigui/count.svg"  />
+  <img src="https://profile-counter.glitch.me/rayen-brigui/count.svg"  />
 </div>
 
 ###
