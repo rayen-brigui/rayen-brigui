@@ -5,10 +5,7 @@
 
 <h2 align="left">ABOUT</h2>
 
-###
 
-<p align="left">Coming Soon</p>
-<br>
 
 ###
 
