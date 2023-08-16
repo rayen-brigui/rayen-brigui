@@ -29,7 +29,7 @@
   <details >
   <summary>See More..</summary>
 
-  [![Rayen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rayen-brigui&theme=high-contrast)](https://github.com/rayen-brigui/github-readme-activity-graph)
+  [![Rayen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rayen-brigui&theme=react-dark)](https://github.com/rayen-brigui/github-readme-activity-graph)
 
   [![Rayen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rayen_brigui)](https://wakatime.com/@rayen_brigui)
   
