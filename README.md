@@ -1,5 +1,6 @@
-<div align="center">
-</div>
+
+ ![profile](https://cdn.discordapp.com/attachments/1053331469419954256/1141437368801443991/My_Profile.gif)
+
 
 ###
 
