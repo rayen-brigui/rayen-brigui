@@ -35,7 +35,7 @@
   
   ![](https://github-profile-trophy.vercel.app/?username=rayen-brigui&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
-
+[![wakatime](https://wakatime.com/badge/user/cd33596e-7f2f-4a17-b756-56efaa7af02b.svg)](https://wakatime.com/@cd33596e-7f2f-4a17-b756-56efaa7af02b)
   </details>
 </div>
 
